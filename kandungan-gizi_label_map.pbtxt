@@ -1,0 +1,45 @@
+item {
+    name: "energi",
+    id: 1,
+    display_name: "energi"
+}
+item {
+    name: "gula",
+    id: 2,
+    display_name: "gula"
+}
+item {
+    name: "karbohidrat",
+    id: 3,
+    display_name: "karbohidrat"
+}
+item {
+    name: "lemak",
+    id: 4,
+    display_name: "lemak"
+}
+item {
+    name: "lemak jenuh",
+    id: 5,
+    display_name: "lemak jenuh"
+}
+item {
+    name: "natrium",
+    id: 6,
+    display_name: "natrium"
+}
+item {
+    name: "nutrition_box",
+    id: 7,
+    display_name: "nutrition_box"
+}
+item {
+    name: "protein",
+    id: 8,
+    display_name: "protein"
+}
+item {
+    name: "quantity",
+    id: 9,
+    display_name: "quantity"
+}
